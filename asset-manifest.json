@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/25-5-Clock/static/css/main.b7e959a9.css",
+    "main.js": "/25-5-Clock/static/js/main.bbc51eb5.js",
+    "static/js/787.ca1857e5.chunk.js": "/25-5-Clock/static/js/787.ca1857e5.chunk.js",
+    "index.html": "/25-5-Clock/index.html",
+    "main.b7e959a9.css.map": "/25-5-Clock/static/css/main.b7e959a9.css.map",
+    "main.bbc51eb5.js.map": "/25-5-Clock/static/js/main.bbc51eb5.js.map",
+    "787.ca1857e5.chunk.js.map": "/25-5-Clock/static/js/787.ca1857e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7e959a9.css",
+    "static/js/main.bbc51eb5.js"
+  ]
+}
